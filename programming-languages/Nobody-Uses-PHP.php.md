@@ -1,8 +1,7 @@
 # WordPress
 
-Powering [62% of CMS market and 43% of _all websites_][wp-mkt], is the
-PHP-implemented WordPress second only to Linux as the web's most
-ubiquitous software?
+WordPress runs [62% of CMS market and 43% of _all websites_][wp-mkt],
+and is famously implemented in PHP.
 
 # Facebook
 
